@@ -1,0 +1,49 @@
+body {
+  background-color: #BFA2DB;
+}
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+h1 {
+  margin: 30px;
+  font: 5rem 'Quicksand', sans-serif;
+  color: #F3F1F5;
+}
+p {
+  font: 2rem 'Quicksand', sans-serif;;
+  color: #F3F1F5;
+ 
+
+}
+img {
+  width: 80%;
+}
+.button1 {
+  font: 2rem 'Quicksand', sans-serif;
+  font-weight: 600;
+  margin-top: 5%;
+  padding: 1% 4%;
+  background-color: #F3F1F5;
+  color: #BFA2DB;
+  border-radius: 1em;
+  border-style: hidden;
+
+}
+.pressed {
+  box-shadow: 0 2px 4px 0 #F0D9FF;
+  opacity: 0.4;
+}
+footer {
+  margin-top: 5%;
+  color: #F0D9FF;
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+
+}
